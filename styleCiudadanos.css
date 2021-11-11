@@ -1,0 +1,59 @@
+body{
+  margin: 50px;
+  font-family: Raleway;
+}
+.wrapper{
+  position:absolute;
+  
+}
+.wrapper h2 {
+  padding:0;
+  margin:0;
+  color: #0C3944;
+  font-size: 60px;
+}
+button{
+  background-color:#0C3944 ;
+}
+
+.icon{
+  border-radius: 100px;
+  width: 30px;
+  height: 15px;
+  background-color:0C3944;
+  border: none}
+
+span:before {
+  content:'';
+  animation: animate infinite 8s;
+}
+@keyframes animate {
+  0% {
+      content: 'ciudadanos';
+  }
+  20% {
+      content: 'ciudadanos';
+  }
+  30% {
+      content: 'estudiantes';
+  }
+  40% {
+      content: 'familia';
+  }
+  50% {
+      content: 'vecinos';
+  }
+  60% {
+      content: 'niños';
+  }
+  70% {
+      content: 'jóvenes';
+  }
+  80% {
+      content: 'adultos';
+  }
+  90% {
+      content: 'amigos';
+  }
+  
+}
