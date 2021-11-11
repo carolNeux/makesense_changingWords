@@ -1,0 +1,62 @@
+body{
+  margin: 50px;
+  font-family: Raleway;
+}
+.wrapper{
+  position:absolute;
+  
+}
+.wrapper h2 {
+  padding:0;
+  margin:0;
+  color: #0C3944;
+  font-size: 60px;
+}
+button{
+  background-color:#0C3944;
+}
+
+.icon{
+  border-radius: 100px;
+  width: 30px;
+  height: 15px;
+  background-color:0C3944;
+  border: none}
+
+span:before {
+  content:'';
+  animation: animate infinite 8s;
+}
+@keyframes animate {
+  0% {
+      content: 'emprendedores';
+  }
+  20% {
+      content: 'emprendedores';
+  }
+  30% {
+      content: 'innovadores';
+  }
+  40% {
+      content: 'productores';
+  }
+  50% {
+      content: 'artistas';
+  }
+  60% {
+      content: 'vecinos';
+  }
+  70% {
+      content: 'creativos';
+  }
+  80% {
+      content: 'visionarios';
+  }
+  90% {
+      content: 'genios';
+  }
+  100% {
+      content: 'empresarios';
+  }
+  
+}
