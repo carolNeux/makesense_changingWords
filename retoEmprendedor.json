@@ -1,0 +1,110 @@
+[
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "boplasticos@ethereal.email",
+        "password": "$2a$10$cyqZB..cF1QojZHY2F937eabd9vKEWyLOMfPqojPyntxyykm9KL26",
+        "nombre": "Juan",
+        "apellido": "Peres",
+        "emprendimiento": "Bioplásticos",
+        "descripcion": "Plásticos realizados a partir de productos vegetales, tales como el aceite de soja, el maíz o la fécula de patata.",
+        "consulta": "no",
+        "rol": "emprendedor",
+        "logo": "src/upload/bioplasticos.png"
+    },
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "biotecho@ethereal.email",
+        "password": "$2a$10$cyqZB..cF1QojZHY2F937eabd9vKEWyLOMfPqojPyntxyykm9KL26",
+        "nombre": "Laura",
+        "apellido": "Torres",
+        "emprendimiento": "biotecho",
+        "descripcion": "creemos en una nueva tecnología para la creación de viviendas, con la aportación de tejas de plastico reciclado",
+        "consulta": "si",
+        "rol": "emprendedor",
+        "logo": "src/upload/biotecho.png"
+    },
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "deraiz@ethereal.email",
+        "password": "raiz1234",
+        "nombre": "José",
+        "apellido": "Alvarado",
+        "emprendimiento": "de raiz",
+        "descripcion": "necesitamos contactos para reemplazar la papelería empresarial y packaging por papeles plantables",
+        "consulta": "si",
+        "rol": "emprendedor",
+        "logo": "src/upload/deRaiz.png"
+    },
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "educate@ethereal.email",
+        "password": "educate1234",
+        "nombre": "Jesus",
+        "apellido": "García",
+        "emprendimiento": "educate girls",
+        "descripcion": "queremos que las niñas de todas las edades no dejen de recibir educación a causa de su situación económica",
+        "consulta": "si",
+        "rol": "emprendedor",
+        "logo": "src/upload/educateGirls.png"
+    },
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "belectricity@ethereal.email",
+        "password": "$2a$10$cyqZB..cF1QojZHY2F937eabd9vKEWyLOMfPqojPyntxyykm9KL26",
+        "nombre": "Manuel",
+        "apellido": "Curiel",
+        "emprendimiento": "electricity for everyone",
+        "descripcion": "contribuimos con la llegada de la  electricidad a viviendas precarias, con la ayuda de electricistas y sus ideas.",
+        "consulta": "si",
+        "rol": "emprendedor",
+        "logo": "src/upload/electricity.png"
+    },
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "emisiones@ethereal.email",
+        "password": "emisiones1234",
+        "nombre": "Dolores",
+        "apellido": "Verduzco",
+        "emprendimiento": "emisiones",
+        "descripcion": "el mundo debe reducir las emisiones 7,6% anual en la próxima década para lograr objetivo de 1,5ºC.",
+        "consulta": "si",
+        "rol": "emprendedor",
+        "logo": "src/upload/emisiones.png"
+    },
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "igualdadYFutbol@ethereal.email",
+        "password": "igualdadYFutbol1234",
+        "nombre": "Maria Sol",
+        "apellido": "Suarez",
+        "emprendimiento": "igualdad y futbola",
+        "descripcion": "promover el deporte para todos los géneros y edades",
+        "consulta": "si",
+        "rol": "emprendedor",
+        "logo": "src/upload/igualdadYFutbol.png"
+    },
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "rampaworld@ethereal.email",
+        "password": "rampaworld1234",
+        "nombre": "David",
+        "apellido": "Cohen",
+        "emprendimiento": "rampa world",
+        "descripcion": "impulsamos la construcción de rampas para personas con capacidades diferentes, en la ciudad y en espacios cerrados",
+        "consulta": "si",
+        "rol": "emprendedor",
+        "logo": "src/upload/rampaWorld.png"
+    },
+    {
+        "id": 618c7b8e224c2e1eb28a5012,
+        "email": "senalizarte@ethereal.email",
+        "password": "$2a$10$cyqZB..cF1QojZHY2F937eabd9vKEWyLOMfPqojPyntxyykm9KL26",
+        "nombre": "Daniel",
+        "apellido": "Miranda",
+        "emprendimiento": "señalizarte",
+        "descripcion": "señalar con sonidos, carteles de la vía pública, y mejorar la vida de personas no videntes",
+        "consulta": "si",
+        "rol": "emprendedor",
+        "logo": "src/upload/senalizarte.png"
+    }
+]

@@ -13,7 +13,7 @@ body{
   font-size: 60px;
 }
 button{
-  background-color:#0C3944 ;
+  background-color:#0C3944;
 }
 
 .icon{
@@ -21,7 +21,7 @@ button{
   width: 30px;
   height: 15px;
   background-color:0C3944;
-  border: none}}
+  border: none}
 
 span:before {
   content:'';
